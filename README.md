@@ -12,3 +12,5 @@ Aerosol Optical Depth (AOD) is the measure of aerosols (e.g., urban haze, smoke 
 ![](Images/gcomc_chart.png)
 
 GCOM-C Aerosol data products
+
+![](Images/HS_AOT.png)
