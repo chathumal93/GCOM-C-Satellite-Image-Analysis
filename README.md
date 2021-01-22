@@ -16,3 +16,6 @@ GCOM-C Aerosol data products
 ![](Images/HS_AOT.png)
 
 Detected hot spot and aerosol optical thickness over Thailand on 2020-01-08
+
+![](Images/PM2.5_HS.png)
+
