@@ -1,7 +1,5 @@
 # GCOM-C-Satellite-Image-Analysis
-Process and Visualize Aerosol Optical Thickness Data from GCOM-C Satellite.
-
-Survey of open burning around Bangkok using satellite images analysis
+In this study, GOCM-C aerosol data processing has been done to visualize Aerosol Optical Thickness (AOT) in a GIS platform for further processing.
 
 1. GCOM-C aerosol products
 
@@ -14,11 +12,20 @@ Aerosol Optical Depth (AOD) is the measure of aerosols (e.g., urban haze, smoke 
 
 GCOM-C Aerosol data products
 
+Hot spot data and the AOT data overlayed and tested the data's initial relation by visualizing it in the same platform. 
 
 <img src="https://github.com/chathumal93/GCOM-C-Satellite-Image-Analysis/blob/main/Images/HS_AOT.png" width="800" height="500" />
 
 Detected hot spot and aerosol optical thickness over Thailand on 2020-01-08
 
+
+
+
+Overview_report includes the additional work carried out to visualize the PM 2.5 level variation in Bangkok 2018 to 2020 March and get an idea about the interpretation of daily average PM 2.5 values in 2018 and 2019.
+Variation of hots spot and PM 2.5 value was also visualized to see the impact of burning of open land around Bangkok for aerosol thickness in the same area. 
+
+Special credits: https://github.com/worasom/aqi_thailand
+According to the study's timeline interest, some of the scripts were modified from the above repository to get the result for this study.
 
 <img src="https://github.com/chathumal93/GCOM-C-Satellite-Image-Analysis/blob/main/Images/PM2.5_HS.png" width="700" height="400" />
 
