@@ -27,7 +27,8 @@ Overview_report includes the additional work carried out to
 * Variation of hots spot and PM 2.5 values over Bangkok to see the impact of burning of open land around Bangkok for aerosol thickness in the same region. 
 
 Special credits: https://github.com/worasom/aqi_thailand
-According to the study's timeline interest, some of the scripts were modified from the above repository to get the result for this study.
+
+According to this study's timeline interest, some of the scripts were modified from the above repository to get the result for this study.
 
 <img src="https://github.com/chathumal93/GCOM-C-Satellite-Image-Analysis/blob/main/Images/PM2.5_HS.png" width="700" height="400" />
 
