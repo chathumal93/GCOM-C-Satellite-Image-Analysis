@@ -11,12 +11,15 @@ Aerosol Optical Depth (AOD) is the measure of aerosols (e.g., urban haze, smoke 
 
 ![](Images/gcomc_chart.png)
 
+
 GCOM-C Aerosol data products
 
-![](Images/HS_AOT.png)
+
+<img src="https://github.com/chathumal93/GCOM-C-Satellite-Image-Analysis/blob/main/Images/HS_AOT.png" width="400" height="200" />
 
 Detected hot spot and aerosol optical thickness over Thailand on 2020-01-08
 
-![](Images/PM2.5_HS.png)
+
+<img src="https://github.com/chathumal93/GCOM-C-Satellite-Image-Analysis/blob/main/Images/PM2.5_HS.png" width="500" height="200" />
 
 Variation of hots spot and PM 2.5 value with the time - Bangkok
